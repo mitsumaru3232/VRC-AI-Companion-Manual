@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+config/
+data/
+build/
+dist/
+*.db
+*.db-*
+*.log
+*.exe
+*.dll
+*.zip
+.preview/

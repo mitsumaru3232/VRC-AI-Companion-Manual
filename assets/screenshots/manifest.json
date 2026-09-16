@@ -1,0 +1,153 @@
+{
+  "app_version": "0.5.0",
+  "theme": "light",
+  "method": "Actual Qt widgets rendered offscreen with temporary data and network disabled",
+  "sample_data": true,
+  "contains_real_credentials": false,
+  "images": [
+    {
+      "file": "setup-1.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "e5716b67068e4f8e742236a8a4b04b3538f645d0f1e6c56ba006fd8023a6d89a"
+    },
+    {
+      "file": "setup-ollama.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "b3f5c67bee473a9d50a8ddc49e72fd3fb423a72eae89e9285854e2757f941149"
+    },
+    {
+      "file": "setup-openai.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "cb67a6a590036648cd5804f9060d3eb6d1512b46eee3a6ddd42fbc344a8ac0c5"
+    },
+    {
+      "file": "setup-anthropic.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "28e3aa117b3b32fd3327b7971f57163a0b8811808b216d69b21880261a1e5c3c"
+    },
+    {
+      "file": "setup-gemini.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "b1f301b62d61d31d2dbdaed5e62933b6a2241e17c296d39f736b91900cf72c1d"
+    },
+    {
+      "file": "setup-3.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "58bfdebff282c88492a8fa312ed54d8cbf5056d6c343ac0b8e9c51bb919fbfc2"
+    },
+    {
+      "file": "setup-4.png",
+      "width": 720,
+      "height": 560,
+      "sha256": "3b5438dbad186cf48a81ac4c6397ab9050629973dd9cd1c9286e4afe4cc55859"
+    },
+    {
+      "file": "chat.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "a17f353ff2a8c40a2db67498db866e5fb2a57c980a6dc8f22090587c22cbe55d"
+    },
+    {
+      "file": "memory.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "85b394f9e20fbb9a48c73f8c4c07089e1a6a6a9c25fb42689554ea41cb6fa946"
+    },
+    {
+      "file": "models.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "efb9aac8eab4cfe1cce6af412ef7ddd13e5b43c2434544293cb9393b062f123a"
+    },
+    {
+      "file": "audio.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "40f7dcf6cd5e1bafc2c2320c5553600415cfe953f610e842cc6f006ac39ff30c"
+    },
+    {
+      "file": "audio-bottom.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "bc81e41e112a73eaef9355d38715d7b71808d5b0735c183e2dec2c17c5bf3726"
+    },
+    {
+      "file": "vrchat.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "4674c61c240195b79e1c3bfa70aefad37da2220a78ce073198ba9f886c701c7b"
+    },
+    {
+      "file": "vrchat-bottom.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "20b3ddd11e72f9e221908736253e181870245f08a5be2f9008a62c571bc7c0e5"
+    },
+    {
+      "file": "settings.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "7b725d541360ce7bf28050753da59960315033aeb262fab8299d3ca2267eaed9"
+    },
+    {
+      "file": "settings-bottom.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "a833de1b59948cce6f42d2ba3afe6f36b943ee0aee61ee2f156da646bd6d32e4"
+    },
+    {
+      "file": "gate.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "22f8f550e01c09bd8fa3ebd6a83ab61a2a8b4c6c8bedb33e94c087710b4f2db7"
+    },
+    {
+      "file": "gate-bottom.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "d502163dfb119a15603590eccdfd8e18b25f60f09e39bc0ff5446b48f3415634"
+    },
+    {
+      "file": "llm.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "20af0c06069ad2bae3469eebd7454cbc9dc85f3918c70c7ce5a306c9068abc7b"
+    },
+    {
+      "file": "key-openai.png",
+      "width": 932,
+      "height": 264,
+      "sha256": "8214913a94b07938227b53de022df3a5fe273258c31981171078571d6d59c895"
+    },
+    {
+      "file": "key-anthropic.png",
+      "width": 932,
+      "height": 264,
+      "sha256": "468f40ee6283716eb615d3a5c0fe55e8bbdaa3e4ec03ee0f44599a656ae1903f"
+    },
+    {
+      "file": "key-gemini.png",
+      "width": 932,
+      "height": 264,
+      "sha256": "e89da086c2a3e401ec83661679f2c3ba4a9f9c2c51ee3295fb2b5d542836d0b9"
+    },
+    {
+      "file": "llm-bottom.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "63c54d535f3138a8c4fee71cb8783960ed09f971f3606c913c4927bbda645be2"
+    },
+    {
+      "file": "logs.png",
+      "width": 1180,
+      "height": 820,
+      "sha256": "612df6e2f7426a549012625f5768fa372ffd666e84b8d27d9968685ac1b03f4a"
+    }
+  ]
+}
