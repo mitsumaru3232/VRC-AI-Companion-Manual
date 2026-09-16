@@ -24,6 +24,7 @@
 * [周囲の音声を取り込む（ベータ版）](audio/nearby.md)
 * [音声認識モデルとGPU](audio/models.md)
 * [VRChatに返答を表示する](vrchat/README.md)
+* [ムチォの文字盤にAIの返答を表示する](vrchat/mucho.md)
 
 ## 自分に合わせる
 

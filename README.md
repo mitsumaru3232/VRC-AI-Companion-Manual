@@ -29,6 +29,7 @@ VRChatでの会話を、AIと一緒に楽しむためのガイドです。
 | パソコン内のAIで使いたい | [Ollamaの導入](ai/ollama.md) |
 | APIキーの入力場所を知りたい | [アプリへの登録・AIの切り替え](ai/register.md) |
 | 他の人の声にも反応してほしい | [周囲の音声（ベータ版）](audio/nearby.md) |
+| ムチォの文字盤にAIの返答を出したい | [ムチォとの連携](vrchat/mucho.md) |
 | 名前・性格・返答の長さを変えたい | [名前と性格](usage/character.md) |
 | 覚えたことを確認・修正したい | [記憶と会話履歴](usage/memory.md) |
 | 認識しない・返事がない・表示されない | [困ったとき](troubleshooting.md) |
