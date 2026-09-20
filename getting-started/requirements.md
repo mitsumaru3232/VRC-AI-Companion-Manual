@@ -29,6 +29,6 @@ CPUで使う場合、NVIDIA GPUがない場合、Parakeetだけを使う場合�
 モデルが大きいほど速い・快適とは限りません。「AI を選ぶ」にある容量とメモリの目安を確認してください。
 
 音声認識はCPUでも使えます。WhisperのGPU処理は対応するNVIDIA GPU向けで、AMD / Intel GPUによる高速化には対応していません。
-ParakeetはCPUで動作します。Ollama側のGPU対応とは別の条件です。
+新規設定の音声認識はParakeet（日本語・CPU）です。保存済みの方式は維持します。Ollama側のGPU対応とは別の条件です。
 
 **次へ：[ダウンロードと初回起動](install.md)**

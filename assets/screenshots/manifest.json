@@ -1,6 +1,8 @@
 {
   "app_version": "0.5.0",
   "theme": "light",
+  "capture_target": "source",
+  "includes_state_examples": false,
   "method": "Actual Qt widgets rendered offscreen with temporary data and network disabled",
   "sample_data": true,
   "contains_real_credentials": false,
@@ -15,25 +17,25 @@
       "file": "setup-ollama.png",
       "width": 720,
       "height": 560,
-      "sha256": "b3f5c67bee473a9d50a8ddc49e72fd3fb423a72eae89e9285854e2757f941149"
+      "sha256": "f4c69930a1849e8005c46af2c7dd34d4e212c5fbdde4445aa4eeec9ae8723059"
     },
     {
       "file": "setup-openai.png",
       "width": 720,
       "height": 560,
-      "sha256": "cb67a6a590036648cd5804f9060d3eb6d1512b46eee3a6ddd42fbc344a8ac0c5"
+      "sha256": "644c2c080444be52bddf26cc5aeaedb428a95c29a174a46d7386e7d90ecf39ce"
     },
     {
       "file": "setup-anthropic.png",
       "width": 720,
       "height": 560,
-      "sha256": "28e3aa117b3b32fd3327b7971f57163a0b8811808b216d69b21880261a1e5c3c"
+      "sha256": "2f902f4167b56d0beac526ea7ed7edcfa2e01d2f567c9dbdb7a9fbd1d9bc99f3"
     },
     {
       "file": "setup-gemini.png",
       "width": 720,
       "height": 560,
-      "sha256": "b1f301b62d61d31d2dbdaed5e62933b6a2241e17c296d39f736b91900cf72c1d"
+      "sha256": "63dcb89aab0ff9c6ca2043bc235b89b5411ec844bd1cd84d949b136df563840d"
     },
     {
       "file": "setup-3.png",
@@ -51,13 +53,13 @@
       "file": "chat.png",
       "width": 1180,
       "height": 820,
-      "sha256": "a17f353ff2a8c40a2db67498db866e5fb2a57c980a6dc8f22090587c22cbe55d"
+      "sha256": "0a0a913cbb3e319fd953f6058603be064c9fb95378cdcd6e3c13de043e334cf3"
     },
     {
       "file": "memory.png",
       "width": 1180,
       "height": 820,
-      "sha256": "85b394f9e20fbb9a48c73f8c4c07089e1a6a6a9c25fb42689554ea41cb6fa946"
+      "sha256": "52b54d9e9e6f101384a52cfcbc25dd1babbdbc75d2ec02035fcf2aabe66436e0"
     },
     {
       "file": "models.png",
@@ -75,19 +77,19 @@
       "file": "audio-bottom.png",
       "width": 1180,
       "height": 820,
-      "sha256": "bc81e41e112a73eaef9355d38715d7b71808d5b0735c183e2dec2c17c5bf3726"
+      "sha256": "8d817e4122c1ab0d20cd79a2a569bbbbe186cbe5997b06cf741152be15aa2979"
     },
     {
       "file": "vrchat.png",
       "width": 1180,
       "height": 820,
-      "sha256": "4674c61c240195b79e1c3bfa70aefad37da2220a78ce073198ba9f886c701c7b"
+      "sha256": "aaa80230adb75b7637e07b3f313a0e00c7c857fd66f1bcceebdec0edafe06bd4"
     },
     {
       "file": "vrchat-bottom.png",
       "width": 1180,
       "height": 820,
-      "sha256": "20b3ddd11e72f9e221908736253e181870245f08a5be2f9008a62c571bc7c0e5"
+      "sha256": "a9f08149f873df055c739ff7047db0cfb5e3b38375c4bce810da6d1a9c61241f"
     },
     {
       "file": "settings.png",
@@ -99,7 +101,7 @@
       "file": "settings-bottom.png",
       "width": 1180,
       "height": 820,
-      "sha256": "a833de1b59948cce6f42d2ba3afe6f36b943ee0aee61ee2f156da646bd6d32e4"
+      "sha256": "195ba2752ce9f34d9a4efbf53b8508fc79217df08292487d4fae6892e360372d"
     },
     {
       "file": "gate.png",
@@ -117,7 +119,7 @@
       "file": "llm.png",
       "width": 1180,
       "height": 820,
-      "sha256": "20af0c06069ad2bae3469eebd7454cbc9dc85f3918c70c7ce5a306c9068abc7b"
+      "sha256": "75eca719e1166e948a34e941576d40d69a92bcf91785fc2100dc5817800dda58"
     },
     {
       "file": "key-openai.png",
@@ -141,13 +143,14 @@
       "file": "llm-bottom.png",
       "width": 1180,
       "height": 820,
-      "sha256": "63c54d535f3138a8c4fee71cb8783960ed09f971f3606c913c4927bbda645be2"
+      "sha256": "24ce4da0e46d298edfd37cdc7aa68ffdafe0545736f8651a6676b5ca4eb033ec"
     },
     {
       "file": "logs.png",
       "width": 1180,
       "height": 820,
-      "sha256": "612df6e2f7426a549012625f5768fa372ffd666e84b8d27d9968685ac1b03f4a"
+      "sha256": "e6bd0957c3b57e5f17ed9cffa7cbddac584d9dfa6abd386c02c3fabf3c98dd42"
     }
-  ]
+  ],
+  "distribution_id": "2026-09-21-kat-parakeet"
 }
